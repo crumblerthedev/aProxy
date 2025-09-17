@@ -7,7 +7,7 @@ const prefix = '/web';  // Set your prefix here
 const localAddresses = [];  // Set your local addresses here
 const blockedHostnames = ["https://xhamster.com"];  // Set your blocked hostnames here
 const ssl = false;  // Set SSL configuration here
-const port = 6969;  // Set the desired port
+const port = 8080;  // Set the desired port
 const index_file = 'index.html'; // Set index file shown by the browser
 // END OF CONFIGURATION
 
